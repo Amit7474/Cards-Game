@@ -1,7 +1,7 @@
 # Cards-Game
 
 ## Location premission request
-![Main Screen]()
+![Main Screen](https://github.com/Amit7474/Cards-Game/blob/master/images/1.PNG)
 
 ## Main screen
 ![Easy Level]()
