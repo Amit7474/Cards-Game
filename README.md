@@ -4,11 +4,11 @@
 ![Main Screen](https://github.com/Amit7474/Cards-Game/blob/master/images/1.PNG)
 
 ## Main screen
-![Easy Level]()
+![Main screen](https://github.com/Amit7474/Cards-Game/blob/master/images/2.PNG)
 
 ## Hard level
-![Medium Level](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc3.png)
+![Hard Level](https://github.com/Amit7474/Cards-Game/blob/master/images/3.PNG)
 
 ## Top Ten Screen
-![Top Ten](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc5.png)
-![Top Ten landscape](https://raw.githubusercontent.com/paz-lavi/MemoryGame/main/Media/sc6.png)
+![Top Ten](https://github.com/Amit7474/Cards-Game/blob/master/images/4.PNG)
+![Top Ten landscape](https://github.com/Amit7474/Cards-Game/blob/master/images/5.PNG)
